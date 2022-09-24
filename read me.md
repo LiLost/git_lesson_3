@@ -49,3 +49,5 @@
 
 ### * Удаление веток
 Для удаления ветки ввести команду "git branch -d 'name branch'"
+
+![Alt-текст](https://img.fonwall.ru/o/8j/zakat-pole-derevo-peyzazh.jpg?route=mid&amp;h=750 "дерево")
